@@ -52,19 +52,6 @@ The **Bank Account Simulation System** mimics real-world core banking operations
 
 ---
 
-## 📸 Output Screenshot
-
-Below is the demonstration of the running application:
-
-![Bank Account Simulation Output](output.png)
-
-> **💡 Screenshot કેવી રીતે દેખાશે:**
-> 1. તમારા આઉટપુટનો સ્ક્રીનશોટ લો અને તેને **`output.png`** નામ આપો.
-> 2. આ `output.png` ફાઇલને GitHub રિપોઝીટરીના મુખ્ય ફોલ્ડરમાં અપલોડ કરી દો.
-> 3. આ `README.md` સેવ થતાં જ સ્ક્રીનશોટ આપોઆપ અહીં દેખાવા લાગશે.
-
----
-
 ## 🖥️ Sample Console Preview
 
 ```text
